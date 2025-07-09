@@ -9,7 +9,7 @@
 ## ⚡ Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** na Unicesumar  
-- 🚀 Fundador da [AXIION.AI]([https://instagram.com/axiion.ai_](https://www.instagram.com/axiion.ai/)) — tecnologia, IA e automações para empresas  
+- 🚀 CEO e Fundador da [AXIION.AI](https://www.instagram.com/axiion.ai/) — tecnologia, IA e automações para empresas
 - 🧩 Especialista em **OpenAI**, **automação de processos** e **negócios inteligentes**  
 - 📚 Sempre aprendendo algo novo e aplicando na prática 💡
 
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-ef5e49?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/LowCode%2FNoCode-FF8C00?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
