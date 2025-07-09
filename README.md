@@ -4,16 +4,12 @@
   🧠 Inteligência Artificial | ⚙️ Automações para Negócios
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Mobile+e+IA;Automatizando+o+futuro+dos+negócios" alt="Typing SVG" />
-</p>
-
 ---
 
 ## ⚡ Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** na Unicesumar  
-- 🚀 Fundador da [Axion.AI](https://instagram.com/axion.ai_) — tecnologia, IA e automações para empresas  
+- 🚀 Fundador da [Axiion.AI](https://instagram.com/axiion.ai_) — tecnologia, IA e automações para empresas  
 - 🧩 Especialista em **OpenAI**, **automação de processos** e **negócios inteligentes**  
 - 📚 Sempre aprendendo algo novo e aplicando na prática 💡
 
@@ -22,7 +18,7 @@
 ## 🧰 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,react,python,firebase,xcode,git,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,firebase,git,vscode,figma&perline=8,supabase,n8n" />
 </p>
 
 ---
@@ -33,7 +29,6 @@
 |-----------|-------------|
 | [`axion-ai-core`](https://github.com/seu-usuario/axion-ai-core) | Núcleo de automações com IA para empresas |
 | [`openai-whatsapp-bot`](https://github.com/seu-usuario/openai-whatsapp-bot) | Chatbot IA inteligente com integração no WhatsApp |
-| [`rn-delivery-app`](https://github.com/seu-usuario/rn-delivery-app) | App de delivery moderno com React Native |
 
 ---
 
