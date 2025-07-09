@@ -9,7 +9,6 @@
 ## ⚡ Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** na Unicesumar  
-- 🚀 CEO e Fundador da [AXIION.AI](https://www.instagram.com/axiion.ai/) — tecnologia, IA e automações para empresas
 - 🧩 Especialista em **OpenAI**, **automação de processos** e **negócios inteligentes**  
 - 📚 Sempre aprendendo algo novo e aplicando na prática 💡
 
@@ -57,7 +56,7 @@
   <a href="https://www.linkedin.com/in/diogo-augusto-ai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/axiion.ai/" target="_blank">
+  <a href="(https://www.instagram.com/diogoaugustosouza_/)" target="_blank">
     <img src="https://img.shields.io/badge/@axiion.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
