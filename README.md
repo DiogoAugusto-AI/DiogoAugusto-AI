@@ -9,7 +9,7 @@
 ## ⚡ Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** na Unicesumar  
-- 🚀 Fundador da [Axiion.AI](https://instagram.com/axiion.ai_) — tecnologia, IA e automações para empresas  
+- 🚀 Fundador da [AXIION.AI](https://instagram.com/axiion.ai_) — tecnologia, IA e automações para empresas  
 - 🧩 Especialista em **OpenAI**, **automação de processos** e **negócios inteligentes**  
 - 📚 Sempre aprendendo algo novo e aplicando na prática 💡
 
@@ -18,7 +18,11 @@
 ## 🧰 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,firebase,git,vscode,figma&perline=8,supabase,n8n" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-ef5e49?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LowCode%2FNoCode-FF8C00?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
@@ -50,7 +54,7 @@
 <p align="center">
   <a href="mailto:diogoaugustox@gmail.com"><img src="https://img.shields.io/badge/Email-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/diogo-augusto-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://instagram.com/axiion.ai](https://www.instagram.com/axiion.ai/)"><img src="https://img.shields.io/badge/@axion.ai_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="[https://instagram.com/axiion.ai](https://www.instagram.com/axiion.ai/)"><img src="https://img.shields.io/badge/@axiion.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
