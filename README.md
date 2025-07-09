@@ -9,7 +9,7 @@
 ## ⚡ Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** na Unicesumar  
-- 🚀 Fundador da [AXIION.AI](https://instagram.com/axiion.ai_) — tecnologia, IA e automações para empresas  
+- 🚀 Fundador da [AXIION.AI]([https://instagram.com/axiion.ai_](https://www.instagram.com/axiion.ai/)) — tecnologia, IA e automações para empresas  
 - 🧩 Especialista em **OpenAI**, **automação de processos** e **negócios inteligentes**  
 - 📚 Sempre aprendendo algo novo e aplicando na prática 💡
 
@@ -52,10 +52,17 @@
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="mailto:diogoaugustox@gmail.com"><img src="https://img.shields.io/badge/Email-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/diogo-augusto-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://instagram.com/axiion.ai](https://www.instagram.com/axiion.ai/)"><img src="https://img.shields.io/badge/@axiion.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:diogoaugustox@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/diogo-augusto-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/axiion.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/@axiion.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
