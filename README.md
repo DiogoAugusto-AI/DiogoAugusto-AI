@@ -1,70 +1,68 @@
-<h1 align="center">👋 Olá, eu sou o Diogo Augusto</h1>
+<h1 align="center">Diogo Augusto</h1>
 
 <p align="center">
-  🧠 Inteligência Artificial | ⚙️ Automações para Negócios
+  🎓 Estudante de Engenharia de Software | 🤖 Apaixonado por IA e Automações para Negócios
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IA-Integrador%20de%20Negócios-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-Automações-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Backend-green?style=flat-square" />
 </p>
 
 ---
 
-## ⚡ Sobre mim
+## 🧠 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software** na Unicesumar  
-- 🧩 Especialista em **OpenAI**, **automação de processos** e **negócios inteligentes**  
-- 📚 Sempre aprendendo algo novo e aplicando na prática 💡
+Sou estudante de **Engenharia de Software** na **Unicesumar**, com foco em soluções de **Inteligência Artificial** e **automação de processos** para negócios. Meu objetivo é transformar tarefas repetitivas em fluxos automáticos, inteligentes e eficientes.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## ⚙️ Tecnologias que domino
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-ef5e49?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-| 💡 Projeto | 🔍 Descrição |
-|-----------|-------------|
-| [`axion-ai-core`](https://github.com/seu-usuario/axion-ai-core) | Núcleo de automações com IA para empresas |
-| [`openai-whatsapp-bot`](https://github.com/seu-usuario/openai-whatsapp-bot) | Chatbot IA inteligente com integração no WhatsApp |
+| Ferramenta      | Descrição curta                                     |
+|------------------|-----------------------------------------------------|
+| 🟧 **n8n**        | Workflows automáticos sem código, integrando APIs  |
+| 🌐 **Webhooks**   | Comunicação em tempo real entre sistemas           |
+| 📡 **HTTP Requests** | Manipulação de APIs REST em automações            |
+| 🧬 **Evolution API** | Integração com inteligência artificial evolutiva |
+| 🐍 **Python**     | Scripts de backend para automação e integração     |
 
 ---
 
-<details>
-<summary>📊 <strong>Estatísticas GitHub</strong></summary>
-<br/>
+## 🚀 O que eu construo?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="47%"/>
-</p>
-
-</details>
+- 🔁 Integrações entre sistemas com n8n
+- ⚙️ Automações completas com Webhooks + Python
+- 🤖 Soluções inteligentes usando IA via APIs
+- 📲 Notificações automáticas em serviços como WhatsApp, Notion, Discord
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📌 Projetos em destaque
 
-<p align="center">
-  <a href="mailto:diogoaugustox@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/diogo-augusto-ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- <a href="https://www.instagram.com/diogoaugustosouza_/" target="_blank">
-  <img src="https://img.shields.io/badge/@diogoaugustosouza_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| 🔗 Integração Python → n8n | Envia dados do Python para automações no n8n | `Python`, `Webhook`, `n8n` |
+| 🤖 Bot de atendimento automático | IA responde mensagens com base em contexto | `Evolution`, `Webhook`, `n8n` |
+| 📥 Coletor de Leads Automático | Captura e organiza leads de várias fontes | `HTTP Request`, `n8n`, `Python` |
 
-</p>
+---
 
+## 📬 Como me encontrar?
+
+- Email: **diogoaugusto.dev@gmail.com**
+- LinkedIn: [linkedin.com/in/diogoaugusto](https://www.linkedin.com/in/diogoaugusto)
+- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+
+---
+
+## ✨ Objetivo
+
+Atuar como desenvolvedor de automações inteligentes, contribuindo com soluções práticas e escaláveis para empresas que buscam eficiência através da tecnologia.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer"/>
+  🔄 Sempre aprendendo, sempre automatizando.
 </p>
