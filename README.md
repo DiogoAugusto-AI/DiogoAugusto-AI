@@ -49,11 +49,19 @@ Sou estudante de **Engenharia de Software** na **Unicesumar**, com foco em solu�
 
 ---
 
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&count_private=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight" height="170">
+</p>
+
+---
+
 ## 📬 Como me encontrar?
 
-- Email: **diogoaugusto.dev@gmail.com**
-- LinkedIn: [linkedin.com/in/diogoaugusto](https://www.linkedin.com/in/diogoaugusto)
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- Email: **diogoaugusto.business@outlook.com**
+- LinkedIn: [linkedin.com/in/diogoaugusto](https://www.linkedin.com/in/diogo-augusto-ai)
 
 ---
 
